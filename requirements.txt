@@ -14,4 +14,4 @@ streamlit_option_menu
 streamlit_lottie
 audio_recorder_streamlit
 langchain_core
-from langchain_openai import ChatOpenAI
+from langchain_openai import ChatOpenAI~=1.6.1
