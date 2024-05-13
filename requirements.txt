@@ -14,3 +14,4 @@ streamlit_option_menu
 streamlit_lottie
 audio_recorder_streamlit
 langchain_core
+langchain_openai
